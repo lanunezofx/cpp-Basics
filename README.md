@@ -111,8 +111,7 @@ Step 3: Run your "a.exe" on the terminal. Type
 Then, it will run your program as how you've written it.
 
 
-## References
-Reference Links: 
+## Reference Links
 https://www.w3schools.com/cpp/cpp_intro.asp <br>
 https://www.eclipse.org/downloads/ <br>
 https://netbeans.apache.org <br>
