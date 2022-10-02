@@ -1,0 +1,18 @@
+<head>
+    <style>
+        h1{
+            color: #CA64EA
+        }
+        h2{
+            color: #FAA705
+        }
+        p{
+            text-align: justify;
+            text-indent: 5%
+        }
+        li{
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>

@@ -1,24 +1,6 @@
 # cpp-Basics
 This repository contains basic C++ programs. All Rights Reserved • LA Nuñez 2022.
 <hr>
-<head>
-    <style>
-        h1{
-            color: #CA64EA
-        }
-        h2{
-            color: #FAA705
-        }
-        p{
-            text-align: justify;
-            text-indent: 5%
-        }
-        li{
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 
 <h1>How To Run C++ Program in Studio Visual Code (SVC) with MinGW</h1>
 <div>
